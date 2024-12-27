@@ -8,6 +8,7 @@ function TaskManager() {
   useEffect(() => {
     // Load tasks from localStorage on mount
     const savedTasks = localStorage.getItem("tasks");
+
     if (savedTasks) {
       try {
         setTasks(JSON.parse(savedTasks));

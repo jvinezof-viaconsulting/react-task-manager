@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1735330136358" clover="3.2.0">
+  <project timestamp="1735330136359" name="All files">
+    <metrics statements="32" coveredstatements="32" conditionals="16" coveredconditionals="16" methods="13" coveredmethods="13" elements="61" coveredelements="61" complexity="0" loc="32" ncloc="32" packages="2" files="2" classes="2"/>
+    <package name="__tests__.mocks">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="windowMock.js" path="C:\Users\T-GAMER\projetos\vinezof-lab\react-apps\react-task-manager\src\__tests__\mocks\windowMock.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.TaskManager">
+      <metrics statements="31" coveredstatements="31" conditionals="16" coveredconditionals="16" methods="13" coveredmethods="13"/>
+      <file name="TaskManager.jsx" path="C:\Users\T-GAMER\projetos\vinezof-lab\react-apps\react-task-manager\src\components\TaskManager\TaskManager.jsx">
+        <metrics statements="31" coveredstatements="31" conditionals="16" coveredconditionals="16" methods="13" coveredmethods="13"/>
+        <line num="4" count="202" type="stmt"/>
+        <line num="5" count="202" type="stmt"/>
+        <line num="6" count="202" type="stmt"/>
+        <line num="8" count="202" type="stmt"/>
+        <line num="10" count="9" type="stmt"/>
+        <line num="12" count="9" type="cond" truecount="2" falsecount="0"/>
+        <line num="13" count="2" type="stmt"/>
+        <line num="14" count="2" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="21" count="202" type="stmt"/>
+        <line num="23" count="20" type="stmt"/>
+        <line num="26" count="202" type="stmt"/>
+        <line num="27" count="7" type="stmt"/>
+        <line num="28" count="7" type="stmt"/>
+        <line num="30" count="7" type="cond" truecount="2" falsecount="0"/>
+        <line num="31" count="1" type="stmt"/>
+        <line num="32" count="1" type="stmt"/>
+        <line num="35" count="6" type="stmt"/>
+        <line num="42" count="6" type="stmt"/>
+        <line num="43" count="6" type="stmt"/>
+        <line num="46" count="202" type="stmt"/>
+        <line num="47" count="3" type="stmt"/>
+        <line num="49" count="5" type="cond" truecount="2" falsecount="0"/>
+        <line num="54" count="202" type="stmt"/>
+        <line num="55" count="2" type="stmt"/>
+        <line num="58" count="202" type="stmt"/>
+        <line num="67" count="181" type="stmt"/>
+        <line num="93" count="42" type="stmt"/>
+        <line num="101" count="3" type="stmt"/>
+        <line num="116" count="1" type="stmt"/>
+        <line num="129" count="42" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
